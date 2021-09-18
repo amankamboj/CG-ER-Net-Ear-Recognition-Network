@@ -9,4 +9,7 @@ Ear recognition network for scarce data scenario. The framework consists of thre
 
 Also, the codes are provided for the comparison with state-of-the-art deep learning models VGG19, ResNet, Inception, Xception, MobileNet in which pre-trained weights are used during training.
 
+
 Currently we have provided partial codes. However, the complete code will be provided after the acceptance notification of the paper.
+
+https://link.springer.com/article/10.1007/s11042-020-10264-2
